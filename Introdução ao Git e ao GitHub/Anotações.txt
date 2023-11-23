@@ -1,3 +1,7 @@
 Link para dowload do Git: https://git-scm.com/downloads
+<<<<<<< HEAD
 Link para dowload do GiiHub: https://desktop.github.com
 o Git Bash é um terminal extendido para otimizar o uso do Git.
+=======
+o Git Bash é um terminal extendido para otimizar o uso do Git.
+>>>>>>> 178f18e5040c5796f099d6f5fbfaf889359ceda7
