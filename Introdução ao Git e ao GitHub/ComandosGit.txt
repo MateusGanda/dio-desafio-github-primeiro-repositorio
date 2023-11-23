@@ -1,0 +1,9 @@
+Alguns comandos do Git e o que eles fazem:
+
+git clone -> clona um repositório Git existente para um novo diretório local.
+git commit -> grava alterações no repositório.
+git pull -> "puxa" as alterações do repositório remoto para o local(busca e mescla com o existente).
+git push -> "empurra" as alterações do repositório local para o remoto.
+git status -> verifica o status do repositório.
+git restore (nome do arquivo) -> restaura todas as modificações que foram feitas localmente.
+git add . -> adiciona todos os arquivos somente no controle de versão local.
